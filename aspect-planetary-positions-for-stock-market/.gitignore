@@ -1,0 +1,17 @@
+# Exclude all CSV files
+*.csv
+
+# Exclude visualization folders
+*/Visualizations/
+
+# Exclude specific directories
+LUNAR_PLANETARY/*/CSV/
+ASPECTS/*/
+ENHANCED_LUNAR/*/
+INGRESS/*/
+LUNAR-CYCLE/*/
+
+
+# Exclude specific file types
+*.png
+*.jpg
